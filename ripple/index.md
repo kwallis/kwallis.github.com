@@ -9,27 +9,22 @@ Ripple is a platform agnostic mobile application development and emulation tool.
 <br/><br/>
 The project is open sourced under the <a href="http://www.apache.org/licenses/LICENSE-2.0.html" target="_blank">Apache 2.0 license</a>. 
 
-**SDK Roadmap:**
+**Roadmap:**
 
-* [Roadmap for Smartphones](https://github.com/blackberry/WebWorks/issues/milestones?state=open)
-* [Roadmap for Tablet OS](https://github.com/blackberry/WebWorks-TabletOS/issues/milestones)
-* [Previous Releases before Github was used for tracking Milestones](roadmap.html)
+[The Roadmap is tracked in GitHub](https://github.com/blackberry/Ripple-UI/issues/milestones)
 
 **Feature Requests:**
 
-* [Feature Requests for Smartphones](https://github.com/blackberry/WebWorks/issues?sort=created&labels=Request&direction=desc&state=open)
-* [Feature Requests for Tablet OS](https://github.com/blackberry/WebWorks-TabletOS/issues?labels=Request&sort=created&direction=desc&state=open&page=1)
-
+[Feature Requests](https://github.com/blackberry/Ripple-UI/issues?sort=created&labels=Request&direction=desc&state=open)
 
 **Forums:**
 
 * [User Forums](http://supportforums.blackberry.com/t5/Web-Development/bd-p/browser_dev)
-* [OSS Project Discussion Forums](http://supportforums.blackberry.com/t5/BlackBerry-WebWorks/bd-p/ww_con)
+* [OSS Project Discussion Forums](http://supportforums.blackberry.com/t5/Ripple-Contributions/bd-p/ripple)
 
 **Downloads:**
 
-* [Download Smartphone WebWorks SDK Installer](http://us.blackberry.com/developers/browserdev/widgetsdk.jsp)
-* [Download Tablet OS WebWorks SDK Installer](http://us.blackberry.com/developers/tablet/webworks.jsp)
+To get an idea of what Ripple provides, you can take a look at the current [Google Chrome extension version of ripple](http://ripple.tinyhippos.com).  Keep an eye on the roadmap section of GitHub (linked above) to see where we are heading.
 
 
 
