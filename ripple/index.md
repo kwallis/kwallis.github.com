@@ -37,30 +37,16 @@ To get an idea of what Ripple provides, you can take a look at the current [Goog
     <th>Contributors</th>
   </tr>
   <tr>  
-    <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks" target="_blank">WebWorks</a></td>
-    <td>Contains all of the source code for the WebWorks platform and APIs for BlackBerry Smartphones</td>
-    <td style="text-align:center"><a href="https://github.com/blackberry/WebWorks/contributors">See List</a></td>
+    <td style="white-space:nowrap;"><a href="https://github.com/blackberry/Ripple-UI" target="_blank">Ripple UI</a></td>
+    <td>Contains the source code for the UI layer and API emulation logic of Ripple.</td>
+    <td style="text-align:center"><a href="https://github.com/blackberry/Ripple-UI/contributors">See List</a></td>
   </tr>
   <tr>  
-    <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks-TabletOS" target="_blank">WebWorks-TabletOS</a></td>
-    <td>Contains all of the source code for the WebWorks platform and APIs for BlackBerry PlayBook</td>
-    <td style="text-align:center"><a href="https://github.com/blackberry/WebWorks-TabletOS/contributors">See List</a></td>
+    <td style="white-space:nowrap;"><a href="https://github.com/blackberry/Ripple-Framework" target="_blank">Ripple Framework</a></td>
+    <td>Contains the source code for the browser-like framework component that hosts the Ripple UI tooling and provides services required for emulation</td>
+    <td style="text-align:center"><a href="https://github.com/blackberry/Ripple-Framework/contributors">See List</a></td>
   </tr>
-  <tr>  
-    <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks-API-Docs" target="_blank">WebWorks-API-Docs</a></td>
-    <td>Source code for the WebWorks API documentation</td>
-    <td style="text-align:center"><a href="https://github.com/blackberry/WebWorks-API-Docs/contributors">See List</a></td>
-  </tr>
-  <tr>  
-    <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks-Community-APIs" target="_blank">WebWorks-Community-APIs</a></td>
-    <td>Community built APIs for both the Smartphone and Tablet OS.  These are not part of the official SDK</td>
-    <td style="text-align:center"><a href="https://github.com/blackberry/WebWorks-Community-APIs/contributors">See List</a></td>
-  </tr>
-  <tr>  
-    <td style="white-space:nowrap;"><a href="https://github.com/blackberry/WebWorks-Samples" target="_blank">WebWorks-Samples</a></td>
-    <td>Home for sample applications built with the BlackBerry WebWorks SDK</td>
-  <td style="text-align:center"><a href="https://github.com/blackberry/WebWorks-Samples/contributors">See List</a></td>
-  </tr>
+  
 </table>
 
 
