@@ -5,17 +5,9 @@ layout: default
 
 # Ripple
 
-<table>
-	<tr>
-		<td><img src="../images/logo_webworks.png"/></td>
-		<td valign="top" style="padding-top:15px">
-			BlackBerry&reg; WebWorks&trade; allows web and mobile web developers to use the SDK in combination with their development tooling of choice to develop, test and package up their web applications for BlackBerry tablets and smartphones. 
-			<br/><br/>
-			The project is open sourced under the <a href="http://www.apache.org/licenses/LICENSE-2.0.html" target="_blank">Apache 2.0 license</a>. 
-		</td>
-	</tr>
-
-</table>
+Ripple is a platform agnostic mobile application development and emulation tool.  It allows a web developer to work in a browser-like testing environment, preserving the typical edit and refresh cycle, while exposing advanced debugging tools such as web inspector on their application content. Combined with the BlackBerry&reg; WebWorks&trade; SDK, the tool also allows application build and deploy for last mile packaging and testing. 
+<br/><br/>
+The project is open sourced under the <a href="http://www.apache.org/licenses/LICENSE-2.0.html" target="_blank">Apache 2.0 license</a>. 
 
 **SDK Roadmap:**
 
