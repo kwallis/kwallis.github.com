@@ -1,0 +1,11 @@
+<div>
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  
+  {% if content %}
+    {{ content }}
+  {% else %}
+    {{ post.content }}
+  {% endif %}
+  
+	<div>{{ post.date | date: date_format }}</div>
+</div>
