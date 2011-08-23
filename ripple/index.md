@@ -43,7 +43,7 @@ To get an idea of what Ripple provides, you can take a look at the current [Goog
   </tr>
   <tr>  
     <td style="white-space:nowrap;"><a href="https://github.com/blackberry/Ripple-Framework" target="_blank">Ripple Framework</a></td>
-    <td>Contains the source code for the browser-like framework component that hosts the Ripple UI tooling and provides services required for emulation</td>
+    <td>Contains the source code for the browser-like framework component that hosts the Ripple UI tooling and provides services required for emulation, as well as platform-specific rendering capabilities</td>
     <td style="text-align:center"><a href="https://github.com/blackberry/Ripple-Framework/contributors">See List</a></td>
   </tr>
   
@@ -52,25 +52,24 @@ To get an idea of what Ripple provides, you can take a look at the current [Goog
 
 ## Project Details
 
-BlackBerry WebWorks is a unique platform in the mobile market and is designed to take the Web as a first class citizen to create full featured applications. It is built on three main strategic principles.
+Ripple is a new approach to mobile web application testing and eumlation.  Building on the typical web developer paradigm of editor of choice combined with rapid refreshes, Ripple allows the developer to quickly see how their application will look on multiple mobile platforms.  Further, it allows for emulation of APIs used in the application, such as advanced HMTL5, BlackBerry WebWorks, and PhoneGap.
 
-1. **Advanced Standards**
+**Platform Support**
 
-    * It truly adopts advanced web standards such as HTML5, CSS3, JavaScript, and features a powerful implementation of SVG.
-    * It runs on the market-leading WebKit&reg; browser engine. _(Also available on BlackBerry handheld version 5.0)_
-    * We are working with leading productivity web frameworks, including (but not limited to) jQuery&reg;, Dojo&reg;, and Sencha&reg;, to make sure that they function and perform as expected.
-    * It's not just about standards, it's about advanced standards and technologies that promote developer skills and productivity.
+Ripple allows you to target multiple mobile web application frameworks and test your application.  You can choose from many device profiles for each platform, to get a true layout picture.
+    * BlackBerry WebWorks
+    * PhoneGap
+    * Mobile Web
 
-2. **Powerful Integration**
+**Emulation and Debugging**
 
-    * It is not a lowest common denominator platform. It's not an isolated environment.
-    * You can create full BlackBerry Super Apps with access to the entire platform through Services and JavaScript APIs.
-    * It's also completely extensible; If support for that [one API that you need](http://www.blackberry.com/developers/docs/webworks/api/) doesn't already exist, you can add it yourself.
-    * Quickly get on the road to an attractive, secured, integrated, always-on and event-driven application that can exploit what makes the BlackBerry platform so powerful.
+    * Ripple allows you to inject values for application framework events into your emulated application, as well as set values to return for API calls, such as Geolocation and contacts information.
+    * The emulated set of APIs reflects those avaiable on your current chosen platform, so you will always know how your application will perform against a given platform.
+    * Ripple includes access to Web Inspector and all of its associated debugging functionality.
 
-3. **Open**
+**Build/Deploy**
 
-    * RIM is putting its resources on the table to become contributing members of the top web open source communities including WebKit, jQuery, and Dojo, and other partners such as Sencha and PhoneGap&reg;. This is a beginning, and our strategy is to broadly advance the state of the art in mobile web applications.
-    * We are also open sourcing this web application platform here under the Apache 2.0 license, so developers can be a driving force in its future.
-    * This new BlackBerry web application platform is open in every way possible.
+    * Ripple includes functionality that will allow you to go the last mile with your application.
+    * Deploy your application to a BlackBerry simulator for your final proofing and debugging.
+    * Package and sign your application to make distribution and deployment to BlackBerry AppWorld quick and easy.
 
