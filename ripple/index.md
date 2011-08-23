@@ -54,22 +54,22 @@ To get an idea of what Ripple provides, you can take a look at the current [Goog
 
 Ripple is a new approach to mobile web application testing and eumlation.  Building on the typical web developer paradigm of editor of choice combined with rapid refreshes, Ripple allows the developer to quickly see how their application will look on multiple mobile platforms.  Further, it allows for emulation of APIs used in the application, such as advanced HMTL5, BlackBerry WebWorks, and PhoneGap.
 
-###Platform Suppor###
+**Platform Support**
 
 Ripple allows you to target multiple mobile web application frameworks and test your application.  You can choose from many device profiles for each platform, to get a true layout picture.
-   * BlackBerry WebWorks
-   * PhoneGap
-   * Mobile Web
+* BlackBerry WebWorks
+* PhoneGap
+* Mobile Web
 
-###Emulation and Debugging###
+**Emulation and Debugging**
 
-   * Ripple allows you to inject values for application framework events into your emulated application, as well as set values to return for API calls, such as Geolocation and contacts information.
-   * The emulated set of APIs reflects those avaiable on your current chosen platform, so you will always know how your application will perform against a given platform.
-   * Ripple includes access to Web Inspector and all of its associated debugging functionality.
+* Ripple allows you to inject values for application framework events into your emulated application, as well as set values to return for API calls, such as Geolocation and contacts information.
+* The emulated set of APIs reflects those avaiable on your current chosen platform, so you will always know how your application will perform against a given platform.
+* Ripple includes access to Web Inspector and all of its associated debugging functionality.
 
-###Build/Deploy###
+**Build/Deploy**
 
-   * Ripple includes functionality that will allow you to go the last mile with your application.
-   * Deploy your application to a BlackBerry simulator for your final proofing and debugging.
-   * Package and sign your application to make distribution and deployment to BlackBerry AppWorld quick and easy.
+* Ripple includes functionality that will allow you to go the last mile with your application.
+* Deploy your application to a BlackBerry simulator for your final proofing and debugging.
+* Package and sign your application to make distribution and deployment to BlackBerry AppWorld quick and easy.
 
