@@ -67,7 +67,7 @@ Ripple allows you to target multiple mobile web application frameworks and test 
 * The emulated set of APIs reflects those avaiable on your current chosen platform, so you will always know how your application will perform against a given platform.
 * Ripple includes access to Web Inspector and all of its associated debugging functionality.
 
-**Build/Deploy**
+**Build/Deploy** (Coming Soon)
 
 * Ripple includes functionality that will allow you to go the last mile with your application.
 * Deploy your application to a BlackBerry simulator for your final proofing and debugging.
